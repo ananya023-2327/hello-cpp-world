@@ -1,8 +1,17 @@
-# Basics
- ## Aim:
-1. Write a basic hello world program in c++
-2. Create basic Calculator
-3. Apply basic conditional statement to check if a number is odd or even
-
-### Theory:
-This "Hello, World!", calculator program showcase the basic structure of a C++ program, including the use of headers, namespaces, the main function, and console output with 'std::cout' 
+# EXPERIMENT 1  
+# Program to make a simple calculator 
+## Aim:
+To make a calculator using cpp
+## Theory:
+This program is a basic calculator written in C++. It allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division. The program provides a command-line interface where users can input two numbers and select the desired operation.  
+The program performs the selected operation and displays the result.
+The user can choose to perform another calculation or exit the program.  
+Features:
+Sum: Adds two numbers.  
+Diff: Subtracts the second number from the first.  
+Multi: Multiplies two numbers.  
+Div: Divides the first number by the second, with error handling for division by zero.     
+## Code:
+Refer to the attatched file.
+## Output:
+Refer to the attached file.
