@@ -5,4 +5,4 @@
 3. Apply basic conditional statement to check if a number is odd or even
 
 ### Theory:
-This "Hello, World!", calculator program & odd-or-even program is to showcase the basic structure of a C++ program, including the use of headers, namespaces, the main function, and console output with 'std::cout' and basic operations of mathematics.
+This "Hello, World!", calculator program showcase the basic structure of a C++ program, including the use of headers, namespaces, the main function, and console output with 'std::cout' 
