@@ -1,7 +1,5 @@
 
-
-// Ananya Patni
-// 23070123023
+// To experiment and understand the different types of data available in cpp
 #include <iostream>
 using namespace std;
 
