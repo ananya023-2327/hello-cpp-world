@@ -1,5 +1,6 @@
-//Ananya Patni 23070123023 A1
-//Exp 4 performing logic gate operarions/ bitwise operations on input given by user
+
+// performing logic gate operarions/ bitwise operations on input given by user
+
 #include <iostream>
 #include <bitset>
 using namespace std;
