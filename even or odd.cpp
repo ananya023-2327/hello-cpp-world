@@ -1,5 +1,5 @@
-//Ananya Patni 23070123023
-//WAP to check if a given number is odd or even
+
+// to check if a given number is odd or even
 #include <iostream>
 using namespace std;
 int main() {
