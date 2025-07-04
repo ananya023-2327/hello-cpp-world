@@ -40,3 +40,5 @@ int main() {
         }
     }
 }
+
+//simple switch-case demonstration in cpp
