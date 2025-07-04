@@ -9,3 +9,5 @@ int main(){
         cout<<endl;
     }
 }
+
+//to print a revered star pyramid of 5 rows
