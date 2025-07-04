@@ -1,5 +1,3 @@
-//Ananya Patni
-//23070123023
 //simple calculator
 
 #include<iostream>
