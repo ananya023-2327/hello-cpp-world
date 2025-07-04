@@ -5,6 +5,7 @@
 //NOT (~)
 //XOR(^)
 //LEFT SHIFT AND 
+
 #include <iostream>
 using namespace std;
 
