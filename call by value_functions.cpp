@@ -15,3 +15,5 @@ void swap(int x, int y)
     x= y;
     y = temp;
 }
+
+//call by value: create a temporray variable to store the values of x and y as we swap them
