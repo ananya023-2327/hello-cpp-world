@@ -7,10 +7,11 @@ int main(){
     cout<<"Enter a character"<<endl;
     cin>>ch;
     if (vowel.find(ch) != string::npos){
-        printf("The enetred character is a vowel");
+        printf("The entered character is a vowel");
     }
     else{
-        printf("the entered char is a consonant");
+        printf("the entered character is a consonant");
     }
 return 0;
 }
+//simple if else conditional to test for vowels in a string 
