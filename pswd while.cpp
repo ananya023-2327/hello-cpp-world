@@ -16,3 +16,5 @@ int main(){
         break;
     }
 }
+
+//simple if-else to check the password entered by user 
