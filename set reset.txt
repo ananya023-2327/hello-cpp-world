@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  int i = 20;
+    int set,reset,bit_reset,bit_set;
+    cout<<"bit_set:";
+    cin>>bit_set;
+    cout<<"bit_reset:";
+    cin>>bit_reset;
+    
+    set= i|(1<<bit_set);
+    cout<<set<<endl;
+    reset = i&(~(1<<bit_reset));
+    cout<<reset<<endl;
+    
+    cout<<"\nthe set number is\n"<<set;
+    cout<<"\nthe reset number is\n"<<reset;
+    return 0;
+    
+    
+}
