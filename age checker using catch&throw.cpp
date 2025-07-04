@@ -31,3 +31,8 @@ int main() {
     return 0;
 }
 
+// the above program is a simple demonstration of try catch and throw statements
+// try statement is use to enclose any conditionals that might throw an error
+// throw statement is used to define a custom error
+//catch statement is used to handle error generated in the try code block
+    
