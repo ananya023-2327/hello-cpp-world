@@ -19,6 +19,6 @@ else{
 
 /*
 Enter a string: 
-malyalam
-It is not a palindrome
+malayalam
+It is a palindrome
 */
