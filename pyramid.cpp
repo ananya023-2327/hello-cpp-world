@@ -1,4 +1,4 @@
-// pyramid_pattern.cpp
+
 // This program generates a classic pyramid pattern using asterisks.
 
 #include <iostream>
