@@ -1,10 +1,13 @@
-hello-cpp-world
+# hello-cpp-world
 
-Welcome to hello-cpp-world! This repository is a personal chronicle of my journey into the world of C++. It's a collection of small, focused programs that I've written to explore and understand various fundamental concepts in C++. Each file represents a step in my learning process, from the very basics to more intricate topics.
+## Welcome to hello-cpp-world! 
+
+This repository is a personal chronicle of my journey into the world of C++. It's a collection of small, focused programs that I've written to explore and understand various fundamental concepts in C++. Each file represents a step in my learning process, from the very basics to more intricate topics.
 What You'll Find Here
 
 This repository covers a wide array of foundational C++ concepts, reflecting my learning path:
-Basic Syntax and Control Flow
+
+### Basic Syntax and Control Flow
 
 These files represent my initial explorations into C++'s core structure and how to control program execution.
 
@@ -26,9 +29,11 @@ These files represent my initial explorations into C++'s core structure and how 
 
     vowel or no.cpp: Checking for vowels.
 
+    to check what quadrant a pair of coordinates belong to: Determining the quadrant of coordinates.
+
     weekday.cpp: Determining the day of the week.
 
-Operators and Expressions
+### Operators and Expressions
 
 Exploring the various operators C++ offers for different operations.
 
@@ -38,11 +43,15 @@ Exploring the various operators C++ offers for different operations.
 
     calculator.cpp: A basic calculator implementation.
 
-Functions and Recursion
+### Functions and Recursion
 
 Delving into modular programming and recursive problem-solving.
 
     call by value_functions.cpp: Understanding function calls by value.
+
+    call by ref.cpp : Understanding function calls and variable swaps by reference
+
+    swapping by call by val.cpp: Swapping values using call by value (though actual swap typically requires pointers/references).
 
     factorial by recursion.cpp: Calculating factorials using recursion.
 
@@ -52,7 +61,7 @@ Delving into modular programming and recursive problem-solving.
 
     rev string recursion.cpp: Reversing a string using recursion.
 
-Arrays and Strings
+### Arrays and Strings
 
 Working with collections of data and character sequences.
 
@@ -62,9 +71,15 @@ Working with collections of data and character sequences.
 
     string reverse.cpp: Reversing a string.
 
-    rev_an_int.cpp: Reversing an integer (likely a non-recursive approach).
+    rev_an_int.cpp: Reversing an integer by treating it as a string.
 
-Error Handling and Advanced Concepts
+    array sum.cpp: summing all elements of an array.
+
+    string char count.cpp: to count the number of characters of a given string.
+
+    
+
+### Error Handling and Advanced Concepts
 
 Venturing into more robust programming practices and specific functionalities.
 
@@ -74,11 +89,11 @@ Venturing into more robust programming practices and specific functionalities.
 
     set reset bit manipulation.cpp: Manipulating individual bits.
 
-    to check what quadrant a pair of coordinates b...: Determining the quadrant of coordinates.
+    file io handling.cpp: reading and writing into a file using fstream and string library
 
     grade assignement.cpp: A program for assigning grades.
 
-Pattern Printing
+### Pattern Printing
 
 Fun exercises to build logic and loops.
 
@@ -92,13 +107,10 @@ Fun exercises to build logic and loops.
 
     star pyramid.cpp: Printing a star pyramid.
 
-Swapping
 
-Different methods of exchanging values.
+    .
 
-    swapping by call by val.cpp: Swapping values using call by value (though actual swap typically requires pointers/references).
-
-How to Explore My Journey
+## How to Explore My Journey
 
 Each .cpp file in this repository is a standalone program. To see them in action:
 
@@ -117,6 +129,6 @@ Each .cpp file in this repository is a standalone program. To see them in action
 
     This will create an executable file named helloworld (or helloworld.exe on Windows), which you can then run to see the program's output.
 
-My Ongoing Learning
+## My Ongoing Learning
 
 This repository is a testament to my continuous learning in C++. I'm always adding new examples as I explore more complex topics and refine my understanding. Feel free to browse, learn, and even suggest improvements!
