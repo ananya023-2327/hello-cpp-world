@@ -15,3 +15,5 @@ int main (){
     ans = sumup(n);
     cout<<"the sum of all numbers from 1 to entered number is: "<< ans;
 }
+
+//program takes in a number, then adds all numbers from 1 to entered number
